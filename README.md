@@ -46,8 +46,8 @@ A versatile file conversion web app featuring:
 ---
 
 ## 📬 Connect with Me
-- **LinkedIn**: [Naveendran](https://in.linkedin.com/in/naveendran-s-788600295)
-- **Email**: [naveen1010ts@gmail.com](mailto:naveen1010ts@gmail.com)
+- **LinkedIn**: [Pavithran B](https://www.linkedin.com/in/pavithran-b-701601295/)
+- **Email**: [pavithranb045@gmail.com](mailto:pavithranb045@gmail.com)
 
 ---
 
